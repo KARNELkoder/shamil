@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "10.11.1995"; // Дата рождения
-var fullname = "Мартинов Артур Вячеславович" // ФИО
+var birthdate = "12.07.1993"; // Дата рождения
+var fullname = "Крамаренко Николай Александрович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
