@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "12.07.1993"; // Дата рождения
-var fullname = "Крамаренко Николай Александрович" // ФИО
+var birthdate = "04.08.2000"; // Дата рождения
+var fullname = "Гаджиев Шамиль Расулавич" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
